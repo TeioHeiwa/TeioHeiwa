@@ -7,7 +7,7 @@
       <h1>✨ Heiwa 🐾</h1>
       <p>
         ☗ Bienvenid@ a mi perfil.<br>
-        ﹕ᓚ₍⑅^..^₎ ა︵‿︵‿︵‿︵‿︵‿︵︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵₊˚ˎˊ
+        ﹕ᓚ₍⑅^..^₎ ა︵‿︵‿︵‿︵‿︵‿︵︵‿︵‿︵‿︵‿︵‿︵‿︵‿₊˚ˎˊ
         Soy desarrollador en formación, actualmente estudiando desarrollo de software libre.
         Los repositorios disponibles en mi perfil corresponden a proyectos prácticos que he desarrollado como parte de mi proceso de aprendizaje, enfocados en mejorar continuamente mis habilidades técnicas y          buenas prácticas de programación.
       </p>
