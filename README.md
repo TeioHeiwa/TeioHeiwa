@@ -22,6 +22,7 @@
   <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg" width="45" title="JavaScript">
   <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg" width="45" title="PHP">
   <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg" width="45" title="SQL">
+  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" width="45" title="PostgreSQL">
   <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg" width="45" title="HTML">
   <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg" width="45" title="CSS">
 </p>
