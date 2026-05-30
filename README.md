@@ -26,3 +26,55 @@
   <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg" width="45" title="HTML">
   <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg" width="45" title="CSS">
 </p>
+
+<div align="center">
+
+<img width="95%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeiwaNava&theme=github_dark" />
+
+<br><br>
+
+<table>
+<tr>
+<td width="50%">
+
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeiwaNava&theme=github_dark" />
+
+</td>
+
+<td width="50%">
+
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HeiwaNava&theme=github_dark&utcOffset=-5" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%">
+
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HeiwaNava&theme=github_dark" />
+
+</td>
+
+<td width="50%">
+
+<img width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HeiwaNava&theme=github_dark" />
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img width="95%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=HeiwaNava&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&hide_border=true&radius=12" />
+
+</div>
