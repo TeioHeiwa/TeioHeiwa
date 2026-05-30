@@ -19,6 +19,7 @@
 
 <p align="center">
   <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png" width="45" title="Python">
+  <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg" width="45" title="NodeJS">
   <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg" width="45" title="JavaScript">
   <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg" width="45" title="PHP">
   <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg" width="45" title="SQL">
